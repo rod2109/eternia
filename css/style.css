@@ -1,0 +1,140 @@
+header{
+  background-color: white ;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background: transparent !important;
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+
+.navbar-brand {
+  margin-left: 600px;
+  margin-right: 470px;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+.menu_style {
+  font-size: 20px
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../images/left_arrow.png);
+    height: 50px;
+    width: 50px;
+    margin-right: 150px;
+    margin-left: -25px;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../images/right_arrow.png);
+    height: 50px;
+    width: 50px;
+    margin-right: -25px;
+    margin-left: 150px;
+}
+
+.carousel {
+  margin: 0px 100px 0px 100px;
+}
+
+.carousel-content {
+  position: absolute;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  top: 10%;
+  z-index: 20;
+  margin:  150px 0px 250px 150px;
+  line-height: 35px;
+}
+
+#underscore {
+  font-size: 50px;
+}
+
+.half-black {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+}
+
+#qual {
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.discover {
+  color: #E17435 !important;
+  margin-top: 30px;
+  width: 180px;
+}
+
+.scroll {
+  margin-top: 20px;
+  text-align: center;
+}
+
+section{
+  height: 600px;
+  background-color: #E9EDEF !important;
+  padding-top: 75px;
+}
+
+.about {
+  background-color: white;
+  height: 450px;
+  ont-family: 'Roboto', sans-serif !important;
+}
+
+.about-head {
+  text-transform: uppercase;
+  margin: -15px 0px 0px 20px;
+  font-weight: bolder;
+}
+
+.about-under {
+  font-size: 30px;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+
+.lorem{
+color: rgba(0, 0, 0, 0.5);
+margin: 0px 20px 0px 20px;
+padding-bottom: 40px;
+}
+
+.learn {
+  margin-left: 20px;
+  color: #E17435;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.carousel-control-prev-button {
+    background-image: url(../images/arrow_1.png);
+    height: 10px;
+    width: 18px;
+}
+
+.carousel-control-next-button {
+    background-image: url(../images/arrow_2.png);
+    height: 10px;
+    width: 18px;
+}
+
+.container{
+  padding-right: 0px;
+}
+
+#carousel-2 {
+  margin-top: -25px;
+  width: 580px;
+  height: 800px;
+  margin-right: 0px;
+}
